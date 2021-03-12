@@ -23,4 +23,4 @@ Link#7
 Status Code: 503 Service Unavailable
 
 Link#8
-NO RESPONSE
+Status Code: 101 Switching Protocols
